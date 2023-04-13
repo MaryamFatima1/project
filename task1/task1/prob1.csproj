@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: task1, Configuration: Debug Any CPU ------
+1>C:\Users\123\Desktop\task1\task1\student.cs(14,10,14,10): error CS1001: Identifier expected
+1>C:\Users\123\Desktop\task1\task1\student.cs(14,10,14,10): error CS1514: { expected
+1>C:\Users\123\Desktop\task1\task1\student.cs(14,10,14,10): error CS1513: } expected
+1>C:\Users\123\Desktop\task1\task1\student.cs(25,6,25,6): error CS1513: } expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
